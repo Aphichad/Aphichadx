@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853788325005",
+    "firebase_url": "https://onlinedb-45df7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "onlinedb-45df7",
+    "storage_bucket": "onlinedb-45df7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853788325005:android:5b755c8f21fd44ea961ec4",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_gene"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInr9Fv__XzuuOxVbjgfgMRNVfhxFuNb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
